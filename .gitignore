@@ -1,0 +1,33 @@
+# Java class files
+*.class
+
+# Java bytecode files
+*.jar
+*.war
+*.ear
+*.zip
+
+# Java IDE configuration files
+*.iml
+*.classpath
+*.project
+.settings/
+.idea/
+.metadata/
+.recommenders/
+SpringToolSuite4/
+nbproject/
+.vscode/
+
+# Build directories
+target/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+#log files
+*.log
+logs/
+log/
