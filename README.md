@@ -107,7 +107,9 @@ To creates a function that can solve this problem, we have to implement an algor
 5. Format and return the final string;
 6. Create unit tests for the class.
 
-## File Structure
+## Instalation and Running
+
+### File Structure
 
 ```
 license-plate-challenge/
@@ -125,7 +127,7 @@ license-plate-challenge/
 
 ---
 
-## Pre-requisites
+### Pre-requisites
 
 - Java 17 or later
 - Maven 3.8+
@@ -133,7 +135,7 @@ license-plate-challenge/
 
 ---
 
-## Run Locally
+### Run Locally
 
 To compile and run the project locally:
 
@@ -152,7 +154,7 @@ If `exec-maven-plugin` is not configured, you may need to add it or run via comp
 
 ---
 
-## Run with Docker
+### Run with Docker
 
 To build and run the application inside a Docker container:
 
