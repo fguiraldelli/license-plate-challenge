@@ -54,7 +54,7 @@ Write a function that takes some index `n` as a parameter and returns the `n`th 
 ### 2. Divide and Conquer approach
 To solve the problem we had to think in terms of how many plates can we get, so in a naive approach it can lead us to error whether we try to calculate all combinations of numbers (10 in total) and letters (26 in total) combinations, i.e., sum the total numbers and letters (36) and multiply it by 6-character, e.g.:
 
-$\[36 \times 36 \times 36 \times 36 \times 36 \times 36 = 36^6 = 2.176.782.336\]$
+$36 \times 36 \times 36 \times 36 \times 36 \times 36 = 36^6 = 2.176.782.336$
 
 But, since the plates start with numbers and then we add letters from the rightmost to the leftmost, we have to follow another approach:
 
