@@ -63,7 +63,7 @@ But, since the plates start with numbers and then we add letters from the rightm
   - How many plates have 1 letters? &rarr; $10^5 \times 26$
   - How many plates have 2 letters? &rarr; $10^5 \times 26^2$
   - ...and so on, until...
-  - How many plates have 6 letters? &rarr; $26^2$
+  - How many plates have 6 letters? &rarr; $26^6$
 
 Where it lead us to the sum all those combinations in a way the we get this kind of formula: 
 
